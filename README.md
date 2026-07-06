@@ -3,10 +3,10 @@
 
 I build backend systems in **Python**, mostly with **Django** and **Django REST Framework**, and pair them with **React and Flutter** front ends when needed. Currently deepening my Django expertise while applying solid engineering fundamentals from [X years] of backend work.
 
-- 🔭 Currently working on: **Neural trainer / Full Stack Developer**
-- 🌱 Currently learning: **Django internals, DRF advanced patterns, database indexing and caching**
-- 💬 Ask me about: **API design, auth systems, playwright automations & scraping**
-- 📫 Reach me: **https://www.linkedin.com/in/marcelobarua/**
+- Currently working on: **Neural trainer / Full Stack Developer**
+- Currently learning: **Django internals, DRF advanced patterns, database indexing and caching**
+- Ask me about: **API design, auth systems, playwright automations & scraping**
+- Reach me: **https://www.linkedin.com/in/marcelobarua/**
 
 ---
 
